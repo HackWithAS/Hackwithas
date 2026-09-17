@@ -70,7 +70,7 @@ Cybersecurity • Web Development • IoT • Secure Development
   <a href="https://x.com/hackwithas" target="_blank">
     <img src="https://img.shields.io/static/v1?message=x&logo=x&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="X logo"  />
   </a>
-    <a href="https://portfolio-hackwithas.vercel.app/" target="_blank">
+    <a href="https://hackwithas.in/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=Portfolio&label=&color=var(--cyan)&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Portfolio logo"  />
   </a>
 </div>
