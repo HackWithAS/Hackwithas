@@ -2,9 +2,9 @@
 
 # Ayush Sharma
 
-### Cybersecurity Enthusiast · Web Developer · Secure Systems Builder
+### 🔐 Cybersecurity Enthusiast &nbsp;·&nbsp; 🌐 Web Developer &nbsp;·&nbsp; 🛡️ Secure Systems Builder
 
-<img src="https://komarev.com/ghpvc/?username=Hackwithas&color=2b2b2b&style=flat-square&label=Profile+Views" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=Hackwithas&color=0d6efd&style=flat-square&label=Profile+Views" alt="Profile Views" />
 
 </div>
 
@@ -30,18 +30,18 @@ I'm Ayush Sharma, also known as **Hackwithas** — a developer focused on buildi
 ## Tech Stack
 
 **Languages**
-![HTML](https://img.shields.io/badge/HTML5-black?style=flat-square&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-black?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript)
-![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python)
-![C](https://img.shields.io/badge/C-black?style=flat-square&logo=c)
-![Java](https://img.shields.io/badge/Java-black?style=flat-square&logo=openjdk)
+![HTML](https://img.shields.io/badge/HTML5-0d6efd?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-0d6efd?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d6efd?style=flat-square&logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-0d6efd?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-0d6efd?style=flat-square&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-0d6efd?style=flat-square&logo=openjdk&logoColor=white)
 
 **Tools & Platforms**
-![Git](https://img.shields.io/badge/Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)
-![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
-![VS Code](https://img.shields.io/badge/VS%20Code-black?style=flat-square&logo=visualstudiocode)
+![Git](https://img.shields.io/badge/Git-198754?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-198754?style=flat-square&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-198754?style=flat-square&logo=linux&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-198754?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 <br>
 
@@ -49,12 +49,12 @@ I'm Ayush Sharma, also known as **Hackwithas** — a developer focused on buildi
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Hackwithas&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=222222&icon_color=444444&text_color=333333&count_private=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hackwithas&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=222222&text_color=333333&langs_count=8" width="40%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Hackwithas&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=0d6efd&icon_color=0d6efd&text_color=333333&count_private=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hackwithas&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=0d6efd&text_color=333333&langs_count=8" width="40%" />
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=Hackwithas&theme=default&hide_border=true&background=ffffff&ring=444444&fire=444444&currStreakLabel=222222" width="88%" alt="streak graph" />
+<img src="https://streak-stats.demolab.com?user=Hackwithas&theme=default&hide_border=true&background=ffffff&ring=0d6efd&fire=fd7e14&currStreakLabel=0d6efd" width="88%" alt="streak graph" />
 
 </div>
 
@@ -73,14 +73,14 @@ I'm Ayush Sharma, also known as **Hackwithas** — a developer focused on buildi
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/Hackwithas)
-[![Gmail](https://img.shields.io/badge/Gmail-black?style=flat-square&logo=gmail)](https://mail.google.com/mail/?view=cm&to=ayushssharmaa@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=flat-square&logo=googlechrome)](https://hackwithas.in/)
-[![X](https://img.shields.io/badge/X-black?style=flat-square&logo=x)](https://x.com/hackwithas)
-[![Telegram](https://img.shields.io/badge/Telegram-black?style=flat-square&logo=telegram)](https://t.me/Hackwith_as)
-[![YouTube](https://img.shields.io/badge/YouTube-black?style=flat-square&logo=youtube)](https://youtube.com/@Hackwith-as)
-[![Instagram](https://img.shields.io/badge/Instagram-black?style=flat-square&logo=instagram)](https://www.instagram.com/ayushpandiit)
-[![Discord](https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord)](https://discord.gg/rQ7tvdQn)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Hackwithas)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=ayushssharmaa@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d6efd?style=flat-square&logo=googlechrome&logoColor=white)](https://hackwithas.in/)
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/hackwithas)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Hackwith_as)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@Hackwith-as)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/ayushpandiit)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/rQ7tvdQn)
 
 </div>
 
