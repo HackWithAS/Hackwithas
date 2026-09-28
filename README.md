@@ -1,6 +1,6 @@
 <div align="center">
 
-# Ayush Sharma
+# Ayush Sharma / HackWithAS
 
 ### 🔐 Cybersecurity Enthusiast &nbsp;·&nbsp; 🌐 Web Developer &nbsp;·&nbsp; 🛡️ Secure Systems Builder
 
